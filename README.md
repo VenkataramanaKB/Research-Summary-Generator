@@ -12,5 +12,5 @@ cd Research-Summary-Generator
 
 git clone https://github.com/VenkataramanaKB/Research-Summary-Generator/
 
-
+python -m streamlit run web_scrapping.py
 
