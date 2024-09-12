@@ -2,8 +2,8 @@
 
 A web scrapping tool which is capable of generating a scholar’s publication, citation details from Google Scholar.
 
+![Screenshot (192)](https://github.com/user-attachments/assets/85af0539-ee51-4d70-8b46-2b46bc03d1f6)
 
-![image](https://github.com/user-attachments/assets/67fc23da-50d1-4705-91ff-26dfd2b6e4a9)
 
 # How to use?
 mkdir Research-Summary-Generator
